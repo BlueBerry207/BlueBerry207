@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **website development**
 
-- 🌱 I’m currently learning **Framework,**
+- 🌱 I’m currently learning **Framework, ios app development**
 
 - 💬 Ask me about **html, js css**
 
