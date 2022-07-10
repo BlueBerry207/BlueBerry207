@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Framework, ios app development**
 
-- 💬 Ask me about **html, js css**
+- 💬 Ask me about **html, css, js, and python**
 
 - ⚡ Fun fact **I think I'm cute.**
 
