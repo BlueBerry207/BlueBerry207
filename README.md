@@ -3,16 +3,16 @@
 
 - 🔭 I’m currently working on **website development**
 
-- 🌱 I’m currently learning **Framework, ios app development**
+- 🌱 I’m currently learning **Framework,**
 
-- 💬 Ask me about **html, css, js, and python**
+- 💬 Ask me about **html, js css**
 
 - ⚡ Fun fact **I think I'm cute.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/largenaughtyboi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="largenaughtyboi" height="30" width="40" /></a>
-<a href="https://discord.gg/Naughtyboi#1127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Naughtyboi#1127" height="30" width="40" /></a>
+<a href="https://discord.gg/기러기#6421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="기러기#6421" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
