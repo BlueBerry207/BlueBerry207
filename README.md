@@ -1,4 +1,4 @@
-<h1 align="center">Hello Word🌍</h1>
+<h1 align="center">BlueBerry</h1>
 
 ```js
 const BlueBerry = "Student Developer"
