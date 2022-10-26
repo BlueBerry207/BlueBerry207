@@ -2,4 +2,5 @@
 
 ```js
 const BlueBerry = "Student Developer"
+let Discord_Tag = "BlueBerry#0001"
 ```
